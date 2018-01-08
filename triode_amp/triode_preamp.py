@@ -182,7 +182,7 @@ class triode_preamp(object):
         # tube
         self.Vgk  = self.est[0,0]
         self.Vpk  = self.est[1,0]
-        # output
+        # output:
         self.Vout = self.Vpk + self.Vck
 
 

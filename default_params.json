@@ -1,0 +1,33 @@
+
+{
+    "G"     : 1.371e-3,
+    "mu"    : 86.9,
+    "gamma" : 1.349,
+    "C"     : 4.56,
+    "Gg"    : 3.263e-4,
+    "xi"    : 1.456,
+    "Cg"    : 11.99,
+    "Ig0"   : 3.917e-8,
+
+    "Rg"  : 7e+4,
+    "Rk"  : 15e+2,
+    "Rp"  : 1e+5,
+    "Ri"  : 1e+6,
+    "Ci"  : 0.047e-6,
+    "Cf"  : 2.5e-08,
+    "Ck"  : 25e-6,
+    "Vpp" : 250,
+
+    "os_factor" : 4.0,
+    "db_gain"   : 12.0,
+
+    "sine_freq"     : 1000,
+    "sine_duration" : 0.01,
+
+    "input_file_path"  : null,
+    "output_file_path" : null
+}
+
+
+
+
